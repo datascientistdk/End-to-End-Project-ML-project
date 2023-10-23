@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dkpra/OneDrive/ML_Projects/Project_1/mlruns/0/4ff1c025035f481e8d994634deb198b1/artifacts
+end_time: 1698080109004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ff1c025035f481e8d994634deb198b1
+run_name: popular-conch-538
+run_uuid: 4ff1c025035f481e8d994634deb198b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698080104822
+status: 3
+tags: []
+user_id: postgres
