@@ -9,3 +9,8 @@
 # loaded the data using data_ingestion 
 # imported and applied DVC
 # Performing EDA
+
+MLFLOW_TRACKING_URI=https://dagshub.com/datascientistdk/End-to-End-Project-ML-project.mlflow \
+MLFLOW_TRACKING_USERNAME=datascientistdk \
+MLFLOW_TRACKING_PASSWORD=da623758bbd4271db150464ef3917c7acb21d949  \
+python script.py
